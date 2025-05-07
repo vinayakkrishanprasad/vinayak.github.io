@@ -1,123 +1,29 @@
 ---
-layout: default
+layout: home
+title: "Welcome"
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 👋 Hi, I'm Vinayak
 
-[Link to another page](./another-page.html).
+I'm a graduate student at Carnegie Mellon University specializing in Business Intelligence and Data Analytics. My work blends data science, machine learning, and NLP to solve real-world problems — especially in healthcare, marketing, and AI applications.
 
-There should be whitespace between paragraphs.
+## 🧠 Projects
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### 📧 A/B Testing for Email Marketing
+**Company:** American Eagle  
+Designed and analyzed an A/B test on discount framing (Save 20% vs. Save $20) using R and synthetic survey data (n=1055); identified a 15% lift in open rate for percentage-based messaging among high-income online shoppers.
 
-# Header 1
+### ❤️ Cardiovascular Drug Recommendation
+**Publication:** [Springer Nature](https://link.springer.com/chapter/10.1007/978-981-99-3250-4_24)  
+Trained neural nets and SVMs to predict the need for 15 medications using data from 2,000 patients; achieved F1-scores from 0.84 to 0.96.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### 🧾 Medical NER using BERT
+Fine-tuned a BERT model to extract clinical terms from electronic health records with 99% annotation accuracy; implemented custom preprocessing and tokenization for domain-specific inputs.
 
-## Header 2
+## 📄 Resume
+[Download My Resume](./vinayak_resume.pdf)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## 📬 Contact
+- 📧 Email: [vkprasad@andrew.cmu.edu](mailto:vkprasad@andrew.cmu.edu)  
+- 💼 LinkedIn: [vinayakprasad02](https://www.linkedin.com/in/vinayakprasad02)  
+- 💻 GitHub: [vinayakkrishanprasad](https://github.com/vinayakkrishanprasad)
