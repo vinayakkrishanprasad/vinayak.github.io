@@ -1,6 +1,6 @@
 ---
-layout: home
-title: "Welcome"
+layout: default
+title: Vinayak Krishan Prasad
 ---
 
 # 👋 Hi, I'm Vinayak
